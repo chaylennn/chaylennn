@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a Data Science, and Cognitive Science Design and Interaction double major at UCSD
+
 <!--
 **chaylennn/chaylennn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
